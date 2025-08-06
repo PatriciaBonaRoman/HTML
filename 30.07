@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Tipos de sushi </title>
+    </head>
+    <body>
+        <h1>Tipos de sushi</h1>
+        <ul>
+            <li>Sashimi</li>
+            <li>Nigiri</li>
+            <li>Maki</li>
+            <li>Temaki</li>
+            <li>Uramaki</li>
+        </ul>
+</html>
